@@ -59,3 +59,4 @@ while True:  # endless loop of gameplay
 # okay so this works but it's a bit messy.. That's quite a lot of code for something that should be relatively simple.
 # It's 2AM so I'm not in the mood for trying anything else right now but that's about as much as I can do today without falling asleep.
 # TODO: Tie both weapons to numbers; check for a win/lose/tie condition based upon that
+# TODO: score tracking
